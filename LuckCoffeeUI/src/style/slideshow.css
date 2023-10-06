@@ -1,0 +1,10 @@
+.slideshow-container{
+    display: flex;
+    justify-content: center;
+}
+
+
+.image-gallery {
+    display: flex;
+    width: 80%;
+}

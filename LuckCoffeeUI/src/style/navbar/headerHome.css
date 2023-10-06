@@ -1,0 +1,13 @@
+/* .MuiToolbar-root , .MuiToolbar-gutters{
+    background-color: #f5ece5;
+    color: #000;
+} */
+
+
+.css-11b3ww9-MuiPaper-root-MuiAppBar-root{
+    background-color: #f5ece5 !important; 
+}
+.css-19r6kue-MuiContainer-root, .css-1t6c9ts{
+    background-color: #f5ece5;
+    color: #000;
+}
